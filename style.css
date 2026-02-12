@@ -8,3 +8,23 @@ body {
     font-family: Roboto, Helvetica, Arial, Helvetica, sans-serif;
 }
 
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 180px;
+    font-size: 36px;
+}
+
+.navbar {
+    display: flex;
+    gap: 18px;
+}
+
