@@ -14,17 +14,30 @@ ul {
 
 a {
     text-decoration: none;
+    color: #E5E7EB;
+}
+
+.hero-section {
+    background-color: #1F2937;
+    height: 100vh;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 24px 180px;
-    font-size: 36px;
+    padding: 22px 230px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .navbar {
     display: flex;
     gap: 18px;
 }
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 
