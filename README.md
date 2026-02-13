@@ -25,3 +25,4 @@ I will say it was easy. There wasn't anything that really tripped me out really 
 
 - It strengthened my understanding of Flexbox. 
 - It helped me learn how to make cool layouts like this with flexbox.
+- I learned how to center different things on a web page (lol! Yes, that classic joke). 
