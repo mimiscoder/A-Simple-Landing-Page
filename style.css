@@ -160,7 +160,10 @@ button {
     color: #1F2937;
 }
 
-
+.cta-container {
+    display: flex;
+    height: 42vh;
+}
 
 
 
