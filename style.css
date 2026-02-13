@@ -189,4 +189,14 @@ button {
     color: #dcdcdc;
 }
 
+.footer {
+    height: 100px;
+    background-color: #1F2937;
+    line-height: 100px;
+    text-align: center;
+    color: #FFF;
+    font-size: 18px;
+}
+
+
 
